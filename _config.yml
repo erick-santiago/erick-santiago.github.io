@@ -22,9 +22,8 @@ title: Erick Santiago
 email: esantiago[dot]dev[at]gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my digital space!  It is currenlty under construction, but come back soon.
-  This site will be dedicated to past and present topics and projects that interest me.
-  Such topics include control theory, emulation, retro games and applied mathematics 
-  just to name a few. So stop on by because we may have likes of similar interest.
+  This space will be a platform where I can share my past and present projects and 
+  interests, so stop on by because we may have likes of similar interest.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
