@@ -22,8 +22,8 @@ title: Erick Santiago
 email: esantiago[dot]dev[at]gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my digital space!  It is currenlty under construction, but come back soon...
-baseurl: "/about/" # the subpath of your site, e.g. /blog
-url: "https://erick-santiago.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  erick-santiago
 
