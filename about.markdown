@@ -4,15 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Erick is a studier of control theory, casual reasoning and applied mathematics. Currently residing in Reno, Nevada, Erick enjoys hiking in South Lake Tahoe, hanging out with his family, friends and pets, and dabling in anything that interests him (linear systems, emulation, games, etc). Check out some of his projects at github.
+[erick-github](https://github.com/erick-santiago)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Source code and README for his Chip-8 emulator project:
+[projects][erick-github] /
+[Chip8](https://github.com/erick-santiago/Chip8-Emulator)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Promethean Drift - A retro FPS game developed in Unity by Erick's Wild Chicken Productions:
+[projects][erick-github] /
+[Promethean-Drift](https://github.com/jekyll/jekyll)
 
 
-[jekyll-organization]: https://github.com/jekyll
+[erick-github]: https://github.com/erick-santiago
