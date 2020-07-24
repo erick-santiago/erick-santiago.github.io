@@ -13,7 +13,7 @@ Source code and README for his Chip-8 emulator project:
 
 Promethean Drift - A retro FPS game developed in Unity by Erick's Wild Chicken Productions:
 [projects][erick-github] /
-[Promethean-Drift](https://github.com/jekyll/jekyll)
+[Promethean-Drift](https://erick-santiago.github.io/Promethean-Drift/)
 
 
 [erick-github]: https://github.com/erick-santiago
