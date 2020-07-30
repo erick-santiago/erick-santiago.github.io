@@ -9,6 +9,8 @@ Erick is a studier of control theory, casual reasoning and applied mathematics. 
 
 Chip-8 - A Chip8 emulator developed in C++ with SDL2 framework: [Chip8](https://github.com/erick-santiago/Chip8-Emulator)
 
+Skipper's Revenge - A 2D shoot-em-up game developed using the SDL2 framework: [Skippers-Revenge](https://github.com/erick-santiago/Skippers-Revenge)
+
 Promethean Drift - A retro FPS game developed in Unity: [Promethean-Drift](https://erick-santiago.github.io/Promethean-Drift)
 
 
