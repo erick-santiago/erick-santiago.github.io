@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Free Time - A first Post Story!"
+title:  "Free Time - A First Post Story!"
 date:   2020-07-24 00:30:46 -0700
 categories: life update
 ---
